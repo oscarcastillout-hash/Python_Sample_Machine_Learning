@@ -29,3 +29,11 @@ pip install numpy matplotlib pandas scikit-learn
 
 ## License
 [Choose a license, e.g., MIT, Apache 2.0]
+
+<img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/9f0d0d6d-bb0c-4065-b66c-1cb6077a9033" />
+
+<img width="686" height="547" alt="image" src="https://github.com/user-attachments/assets/814d847f-6383-4074-bc69-365566b1b737" />
+
+<img width="841" height="624" alt="image" src="https://github.com/user-attachments/assets/d6117ffb-537b-4490-85fe-c20364b44d64" />
+
+
