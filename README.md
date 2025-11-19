@@ -25,7 +25,7 @@ pip install numpy matplotlib pandas scikit-learn
 - This Colab notebook (`.ipynb` file).
 
 ## Author
-[Your Name/Organization]
+[Me, Oscar, Nov 2025]
 
 ## License
 [Choose a license, e.g., MIT, Apache 2.0]
