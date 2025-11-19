@@ -1,6 +1,4 @@
-# Python_Sample_Machine_Learning
-
-# Project Title
+Python_Sample_Machine_Learning
 
 ## Description
 This project demonstrates a simple linear regression model using synthetic data. It covers data generation, model training, prediction, and visualization of results.
